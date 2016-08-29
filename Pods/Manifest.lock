@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (3.4.1)
+  - AlamofireObjectMapper (3.0.2):
+    - Alamofire (~> 3.2)
+    - ObjectMapper (~> 1.0)
+  - MBProgressHUD (1.0.0)
+  - ObjectMapper (1.4.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - AlamofireObjectMapper (~> 3.0)
+  - MBProgressHUD (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  AlamofireObjectMapper: 70f97cbf45c01c48d26aa07a1a7059a60ed7411d
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  ObjectMapper: a07ad0462c5adf014adc0f89ef04c29b626e855e
+
+PODFILE CHECKSUM: 6965a01381a27ba4c2f6c3cb9b4be33df4c1e670
+
+COCOAPODS: 1.0.1
